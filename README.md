@@ -1,4 +1,27 @@
-# EncargoSM4
+# Encargo LLanquihue
+Se actualiza version semana 4 con lo solicitado para semana 5, conservando el codigo principal que se ha estado contruyendo clase a clase, modificando la estructura de los paquetes para organizar el codigo.
+* Estructura general del proyecto:
+  
+```plaintext
+📁 src/
+├── app/
+  ├── Main/  # Clase principal con el método main
+├── Servicie/  
+  ├── GestorDatos/ # Clases de dominio (Nombre, tipo, precio).
+├── model/       
+  ├── Tour/ 
+├── resources/         
+  ├── tour.txt/ # Archivo txt
+
+````
+
+Instrucciones para clonar y ejecutar el proyecto
+Ejecutar Main.java
+
+
+
+
+
 Trabajo semana 4
 Autor del proyecto
 
@@ -24,6 +47,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, la empresa Lla
 ````
 
 Instrucciones para clonar y ejecutar el proyecto
+Ejecutar EncargoS4
 
 Clona el repositorio desde GitHub: git clone https://github.com/EduardoNunez729/Llanquihue-tour.git
 
