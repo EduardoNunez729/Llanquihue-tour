@@ -1,9 +1,10 @@
 # Encargo LLanquihue
 Se actualiza version semana 4 con lo solicitado para semana 5, conservando el codigo principal que se ha estado contruyendo clase a clase, modificando la estructura de los paquetes para organizar el codigo.
-* Estructura general del proyecto:
-* 
-*
-* ```plaintext
+
+Estructura general del proyecto:
+
+
+```plaintext
 📁 src/
 ├── data/
   ├── GestorServicios/ 
@@ -18,8 +19,6 @@ Se actualiza version semana 4 con lo solicitado para semana 5, conservando el co
 ````
 Instrucciones para ejecutar el proyecto
 Ejecutar Main.java
-
-
 
 
 
